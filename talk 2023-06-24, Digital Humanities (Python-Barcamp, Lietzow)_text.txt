@@ -1,0 +1,26 @@
+﻿Hallo an alle die hier sind. Heute möchte ich über ein spannendes Anwendungsfeld von Programmiersprachen wie Python reden, welches man nicht klassisch mit Informatik in verbringen würde. Römische Münzen.
+
+
+Das ist eine römische Münze. Weiß vielleicht einer von euch, welcher Kaiser das sein könnte? 
+
+
+Das ist ein Denar des Hadrian. Hadrian war ein römischer Kaiser aus der Zeit der Adoptivkaiserzeit (von 117 bis 138). Das erkennt man zum einen an dem Bart, den nur wenige Kaiserdarstellungen haben und zum anderen hier an der Legende. IMP (imperator) ist ein militärischer Ehrentitel, der sein imperium, also die Befehlsgewalt darstellt. CAESAR ist ebenfalls ein Ehrentitel, mit dem ein Kaiser in der Adoptivkaiser bereits vor seiner Regentschaft als Nachfolger ernannt wurde. Traian verweist auf seinen Großvater und Vorgänger und HADRIANVS ist sein Name. AVG, also Augustus, ist schließlich den Kaisertitel.
+
+
+Ich bin Maximilian und studiere im 8. Semester Geschichte im Bachelor und arbeite seit knapp zwei Jahren in der antiken Numismatik als studentische Hilfskraft. Zusätzlich bin ich in weiteren Beschäftigungen aktiv, die nicht alle was mit Münzen, aber alle etwas mit Digital Humanities zu tun haben.
+
+
+Ok, was ist nun Digital Humanities? Digital Humanities ist ganz grob das Spannungsfeld zwischen Geisteswissenschaften und Informatik. Methoden aus der Informatik können auf wissenschaftliche Fragestellungen, die aus der Disziplin der Geschichtswissenschaften herangetragen werden, entscheidende Erkenntnisse liefern. 
+
+
+Welche Anwendungsmöglichkeiten gibt es? 
+Das ist Philipp Melanchthon. Melanchthon war neben Martin Luther wohl der wichtigste Reformator. Er verfasste zahlreiche Bücher, Kommentare zu biblischen Schriften und eben auch Briefe. Die Heidelberger Akademie der Wissenschaften hat vor einiger Zeit alle Briefe von ihm digitalisiert und als Datensatz ins Netz gestellt.
+
+
+(zeigen)
+
+
+So  sieht das nun aus. Wie ihrr seht, gibt es hier unten eine Reihe von Normdaten. Ich und ein Kumpel haben diese Daten mithilfe von BeautifulSoup gescrapt und ausgewertet. Die Daten haben wir bereinigt und die Geodaten, die hier hinterlegt sind, für eine Datenanalyse vorbereitet. So sieht das etwa aus.
+
+
+Hier kann man zum einen die Häufigkeit der Geodaten sehen, als auch die Beziehungen untereinander. Man sieht, dass die meisten Briefe aus Wittenberg versendet wurden.
